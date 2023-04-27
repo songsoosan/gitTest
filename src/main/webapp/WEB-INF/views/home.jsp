@@ -17,6 +17,7 @@
 	<p>reverse commit</p>
 	<button>click</button>
 
+	<p>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 </p>
 </body>
 <script>
 	$("p").click(function(){
